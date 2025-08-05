@@ -10,7 +10,6 @@ This repository is a collection of all my practical assignments submitted for th
 - 🗃️ [Relational Database Management Systems (RDBMS)](https://github.com/Dcs-git/relational-database-management-systems-practical-purvaparmar)
 - 🐍 [Introduction to Python Programming](https://github.com/Dcs-git/introduction-to-python-programming-practical-purvaparmar)
 - 🧱 [Object-Oriented Concepts in Programming](https://github.com/Dcs-git/object-oriented-concepts-programming-practical-purvaparmar)
-- 🍬 [Sweet Shop Management System (Full Stack)](https://github.com/purvaparmar/sweet-shop-management-system)
 - 📊 [Data Analytics](https://github.com/Dcs-git/data-analytics-purvaparmar)
 - ☕ [Java Programming](https://github.com/Dcs-git/java-programming-purvaparmar)
 
